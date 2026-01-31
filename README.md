@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Mohamed Hamouda<br>
-Junior Back-end Developer with 2 years of experience building scalable and efficient server-side applications. Graduated from Mansoura University, Faculty of Engineering (Communications and Computer Engineering), with a GPA of 3.8 😊
+Junior Back-end Developer with 2 years of experience building scalable and efficient server-side applications. Graduated from Mansoura University, Faculty of Engineering (Communications and Computer Engineering), with a GPA of 3.8
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamed0.0hamouda)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohamed._.hamuda)
@@ -37,6 +37,9 @@ Junior Back-end Developer with 2 years of experience building scalable and effic
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # 📊 GitHub Stats:
-
+💻 Focused on Backend Development with ASP.NET and C#
+🚀 Actively building APIs and backend projects
+📈 Continuous learner improving coding skills and system design
+🛠️ Experience with SQL Server, Entity Framework, and RESTful APIs
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
