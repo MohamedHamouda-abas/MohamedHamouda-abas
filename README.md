@@ -39,8 +39,8 @@ Junior Back-end Developer with 2 years of experience building scalable and effic
 # 📊 GitHub Stats:
 
 <p>💻 Focused on Backend Development with ASP.NET and C#</p> </n>
-🚀 Actively building APIs and backend projects
-📈 Continuous learner improving coding skills and system design
-🛠️ Experience with SQL Server, Entity Framework, and RESTful APIs
+🚀 Actively building APIs and backend projects  </n>
+📈 Continuous learner improving coding skills and system design  </n>
+🛠️ Experience with SQL Server, Entity Framework, and RESTful APIs </n> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
