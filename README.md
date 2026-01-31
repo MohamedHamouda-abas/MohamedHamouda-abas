@@ -37,6 +37,7 @@ Junior Back-end Developer with 2 years of experience building scalable and effic
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # 📊 GitHub Stats:
+<img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njk4Nzg3NzksIm5iZiI6MTc2OTg3ODQ3OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTMxVDE2NTQzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIxZDU2MjI1NGFlYTFhNDI0NzhmNTAxNTZlZjgwNjNjMjEwZjg1NjQwMTQ5MTRlNTAwMmE3MWI2ZjlkNWMxYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R8-xqkoQ4GgPQJT9vSIIpOqd19n3dNZrPd5wzssT59A"/>
 <p>💻 Focused on Backend Development with ASP.NET and C#</p> </n>
 <p>🚀 Actively building APIs and backend projects</p> </n>
 <p>📈 Continuous learner improving coding skills and system design</p> </n>
