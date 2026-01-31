@@ -1,7 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Mohamed Hamouda<br>Junior Back-end Developer with 2 years of progressive experience in designing, implementing, and maintaining robust server-side applications, with a focus on clean and efficient coding practices .<br>I graduated from the Faculty of Engineering, Department of Communications and Computer Engineering, at Mansoura University. With GPA Cumulative — 3.8+ GPA
-
-
+Hi 👋, I'm Mohamed Hamouda<br>
+Junior Back-end Developer with 2 years of experience building scalable and efficient server-side applications. Graduated from Mansoura University, Faculty of Engineering (Communications and Computer Engineering), with a GPA of 3.8 😊
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamed0.0hamouda)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mohamed._.hamuda)
