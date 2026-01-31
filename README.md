@@ -37,10 +37,9 @@ Junior Back-end Developer with 2 years of experience building scalable and effic
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 # 📊 GitHub Stats:
-
 <p>💻 Focused on Backend Development with ASP.NET and C#</p> </n>
-🚀 Actively building APIs and backend projects  </n>
-📈 Continuous learner improving coding skills and system design  </n>
-🛠️ Experience with SQL Server, Entity Framework, and RESTful APIs </n> 
+<p>🚀 Actively building APIs and backend projects</p> </n>
+<p>📈 Continuous learner improving coding skills and system design</p> </n>
+<p>🛠️ Experience with SQL Server, Entity Framework, and RESTful APIs</p> </n> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
